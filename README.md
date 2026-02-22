@@ -1,5 +1,5 @@
 # Apna-college
 This is my first  git repository  project.
 <br>
-Author - ujjwal singh
+Author - ujjwal singh Thakur
 Good experience to work on this platform. Best platform to do coding.
